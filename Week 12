@@ -11,7 +11,7 @@ CODE:-
 // Structure to represent a stack 
 struct Stack { 
 	int data; 
-	struct Stack* next; 
+	struct Stack* next;  
 }; 
 
 struct Graph { 
