@@ -9,7 +9,7 @@ Display the elements in a Queue
    CODE:-
 //Queue linked list
 #include <stdio.h>
-#include <stdlib.h>
+#include <stdlib.h> 
 struct Queue 
 { int ele;
   struct Queue *next;};
