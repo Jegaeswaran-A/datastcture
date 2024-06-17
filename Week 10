@@ -13,7 +13,7 @@ struct Node
     struct Node *right; 
     int height; 
 }; 
-typedef struct Node node;
+typedef struct Node node;  
 int height(node *n)
 {
     if (n==NULL)
